@@ -12,7 +12,8 @@ Using different Query Operators in MongoDB Database
 - This file will insert three (3) documents in the collection `students` under the database `StudDatabase`
 
 # Run 'studentQuery.js' File:
-- 
+- Execute this file by using the command - `node studentQuery.js` in the terminal.
+- This file contains different `Query Operators` like `$lt`, `$gt`, `$in` and regular expression.
 
 
 
